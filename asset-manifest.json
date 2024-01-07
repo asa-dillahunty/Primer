@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Primer/static/css/main.1e614451.css",
+    "main.js": "/Primer/static/js/main.bf35e856.js",
+    "static/js/787.afb127f4.chunk.js": "/Primer/static/js/787.afb127f4.chunk.js",
+    "index.html": "/Primer/index.html",
+    "main.1e614451.css.map": "/Primer/static/css/main.1e614451.css.map",
+    "main.bf35e856.js.map": "/Primer/static/js/main.bf35e856.js.map",
+    "787.afb127f4.chunk.js.map": "/Primer/static/js/787.afb127f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e614451.css",
+    "static/js/main.bf35e856.js"
+  ]
+}
